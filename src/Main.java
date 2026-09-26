@@ -1,3 +1,4 @@
+//https://github.com/AngelVagoCF27/untitled12/blob/main/src/Main.java
 import java.util.Scanner;
 public class Main{
     public static void main (String[] upiiz){
